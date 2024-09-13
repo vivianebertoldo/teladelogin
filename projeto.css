@@ -1,13 +1,39 @@
 body{
-    background-color: rgb(188, 214, 248);
+    background-color: rgb(173, 207, 252);
 }
-@media (min-width: 576px) {  }
+.main-container{
+    margin: 5vh;
+  
+
+}
+.imagem1{
+    height: 40vh;
+    width: 40vh;
+}
+.container{
+    background-color: rgb(96, 96, 255);
+    height: 40vh;
+}
+
+.btn-link {
+    text-decoration: none;
+
+}
+
+
+@media (min-width: 576px) {  
+  
+}
 
 
 @media (min-width: 768px) {  }
 
 @media (min-width: 992px) {  }
 
-@media (min-width: 1200px) {  }
+@media (min-width: 1200px) {  
+    .imagem1{
+        
+    }
+}
 
 @media (min-width: 1400px) { }
